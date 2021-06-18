@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stopwatchreact/static/css/main.b7cff1c0.chunk.css",
+    "main.js": "/stopwatchreact/static/js/main.f16d2627.chunk.js",
+    "main.js.map": "/stopwatchreact/static/js/main.f16d2627.chunk.js.map",
+    "runtime-main.js": "/stopwatchreact/static/js/runtime-main.9fa549e7.js",
+    "runtime-main.js.map": "/stopwatchreact/static/js/runtime-main.9fa549e7.js.map",
+    "static/js/2.2c3155f8.chunk.js": "/stopwatchreact/static/js/2.2c3155f8.chunk.js",
+    "static/js/2.2c3155f8.chunk.js.map": "/stopwatchreact/static/js/2.2c3155f8.chunk.js.map",
+    "static/js/3.095f8838.chunk.js": "/stopwatchreact/static/js/3.095f8838.chunk.js",
+    "static/js/3.095f8838.chunk.js.map": "/stopwatchreact/static/js/3.095f8838.chunk.js.map",
+    "index.html": "/stopwatchreact/index.html",
+    "static/css/main.b7cff1c0.chunk.css.map": "/stopwatchreact/static/css/main.b7cff1c0.chunk.css.map",
+    "static/js/2.2c3155f8.chunk.js.LICENSE.txt": "/stopwatchreact/static/js/2.2c3155f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fa549e7.js",
+    "static/js/2.2c3155f8.chunk.js",
+    "static/css/main.b7cff1c0.chunk.css",
+    "static/js/main.f16d2627.chunk.js"
+  ]
+}
