@@ -1,0 +1,64 @@
+/* Timer Component CSS */
+.timer-component{
+  height: 300px;
+  /* width: 600px; */
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* border-radius:2px solid rgb(15, 11, 39) ; */
+  /* background-color: rgb(20, 15, 46); */
+  color: white;
+  border-radius: 25px;
+  text-align: center;
+}
+
+/* Screen larger than 600px? 2 column */
+@media (max-width: 480px) {
+  .timer-component { width: 350px;; }
+}
+
+/* Screen larger than 900px? 3 columns */
+@media (min-width: 600px) {
+  .timer-component { width: 600px;; }
+}  
+
+span{
+  font-size: 40px;
+}
+
+/*Button Component CSS */
+.div-button-component{
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.button-component-start{
+  background-color: rgb(3, 52, 66);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  font-size: 20px;
+  margin: 10px;
+  border-radius: 25px;
+  text-align: center;
+}
+
+.button-component-stop{
+  background-color: rgb(209, 26, 20);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  font-size: 20px;
+  margin: 10px;
+  border-radius: 25px;
+  text-align: center;
+}
+
+/*COLOR COMPONENT CSS */
+.color-component{
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
